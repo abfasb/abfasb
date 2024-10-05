@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on e-commerce applications.<br>👯 I’m looking to collaborate on web projects.<br>🤝 I need help with backend development.<br>🌱 I’m learning full-stack development.<br>💬 Ask me about JavaScript and Node.js.<br>⚡ Fun fact: I love problem-solving!
+🔭 I’m working on web & mobile applications.<br>👯 I’m looking to collaborate on web projects.<br>🤝 I need help with development.<br>🌱 I’m learning full-stack development.<br>💬 Ask me about JavaScript and Node.js.<br>⚡ Fun fact: I love problem-solving!
 
 
 ## 🌐 Socials:
