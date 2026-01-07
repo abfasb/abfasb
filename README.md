@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on web & mobile applications.<br>👯 I’m looking to collaborate on web projects and application.<br>🤝 I need help with development.<br>🌱 I’m learning full-stack development.<br>💬 Ask me about JavaScript and Node.js.
+🔭 I’m working on web & mobile applications.<br>🤝 I need help with development.<br>🌱 I’m learning full-stack development.<br>
 
 
 ## 🌐 Socials:
